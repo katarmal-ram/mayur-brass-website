@@ -2,112 +2,112 @@
   "featured": [],
   "categories": [
     {
-      "id": "category-1698326400",
-      "name": "Brass Fasteners",
-      "image": "https://images.unsplash.com/photo-1563362303-1b6e8f6d6a49?auto=format&fit=crop&q=80&w=600",
+      "id": "category-1698320400",
+      "name": "Brass Pneumatic Components",
+      "image": "https://images.unsplash.com/photo-1573497019410-9c01d8f0e44e?auto=format&fit=crop&q=80&w=600",
       "products": [
         {
-          "id": "product-1698326401",
-          "name": "Brass Hex Nuts",
-          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
-          "description": "Durable brass hex nuts suitable for various automotive and aerospace assemblies.",
+          "id": "product-1698320401",
+          "name": "Brass Pneumatic Valve",
+          "image": "https://images.unsplash.com/photo-1560578296-7f14f9d8c7b1?auto=format&fit=crop&q=80&w=600",
+          "description": "Durable brass valve designed for optimal airflow and pressure control.",
           "applications": [
-            "Automotive chassis",
-            "Aerospace structural components"
+            "Industrial Pneumatics",
+            "Automated Systems"
           ],
           "specifications": [
-            "Standard sizes from M4 to M20",
-            "Corrosion-resistant finish"
+            "Pressure Rating: 200 PSI",
+            "Temperature Range: -20°C to 100°C"
           ]
         },
         {
-          "id": "product-1698326402",
-          "name": "Brass Bolts",
-          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
-          "description": "Precision-engineered brass bolts ideal for high-stress environments in automotive and aerospace sectors.",
+          "id": "product-1698320402",
+          "name": "Brass Fittings",
+          "image": "https://images.unsplash.com/photo-1593755932381-9a2b1460a2a2?auto=format&fit=crop&q=80&w=600",
+          "description": "High-tolerance brass fittings for connecting pneumatic hoses and pipes.",
           "applications": [
-            "Engine components",
-            "Aircraft fittings"
+            "Pneumatic Systems",
+            "Hydraulic Applications"
           ],
           "specifications": [
-            "Metric and imperial sizes",
-            "High tensile strength"
+            "Thread Size: 1/4\" NPT",
+            "Material: Brass C360"
           ]
         }
       ],
-      "description": "High-quality brass fasteners designed for aerospace and automotive applications."
+      "description": "High-precision brass components for pneumatic applications, ensuring reliability and performance."
     },
     {
-      "id": "category-1698326403",
-      "name": "Brass Electrical Connectors",
-      "image": "https://images.unsplash.com/photo-1555119875-3fa6cbd4e7b1?auto=format&fit=crop&q=80&w=600",
+      "id": "category-1698320403",
+      "name": "Aerospace Brass Components",
+      "image": "https://images.unsplash.com/photo-1589984401134-9fb8bfa9a591?auto=format&fit=crop&q=80&w=600",
       "products": [
         {
-          "id": "product-1698326404",
-          "name": "Brass Spark Plugs",
-          "image": "https://images.unsplash.com/photo-1579680217043-b82b9fcbdaef?auto=format&fit=crop&q=80&w=600",
-          "description": "High-performance brass spark plugs designed for efficiency and durability in combustion engines.",
+          "id": "product-1698320404",
+          "name": "Brass Rivets",
+          "image": "https://images.unsplash.com/photo-1583034487927-45f2b3ad9b94?auto=format&fit=crop&q=80&w=600",
+          "description": "Lightweight and strong brass rivets suitable for aerospace assembly.",
           "applications": [
-            "Gasoline engines",
-            "Aerospace propulsion systems"
+            "Aircraft Assembly",
+            "Structural Components"
           ],
           "specifications": [
-            "Heat range: 6 to 10",
-            "Thread size: M14"
+            "Diameter: 3mm",
+            "Length: 10mm"
           ]
         },
         {
-          "id": "product-1698326405",
-          "name": "Brass Terminals",
-          "image": "https://images.unsplash.com/photo-1563606712008-3a25108e8d54?auto=format&fit=crop&q=80&w=600",
-          "description": "Durable brass terminals for reliable electrical connections in various automotive applications.",
+          "id": "product-1698320405",
+          "name": "Brass Bushings",
+          "image": "https://images.unsplash.com/photo-1576131499490-89b8a8f9e4c1?auto=format&fit=crop&q=80&w=600",
+          "description": "High-precision brass bushings designed for aerospace applications.",
           "applications": [
-            "Wiring harnesses",
-            "Control systems"
+            "Support Structures",
+            "Engine Components"
           ],
           "specifications": [
-            "Standard and custom sizes",
-            "Solder or crimp options available"
+            "Inner Diameter: 5mm",
+            "Outer Diameter: 10mm"
           ]
         }
       ],
-      "description": "Reliable brass electrical connectors for aerospace and automotive electrical systems."
+      "description": "Precision-engineered brass components for aerospace applications, meeting rigorous standards."
     },
     {
-      "id": "category-1698326406",
-      "name": "Brass Fittings",
-      "image": "https://images.unsplash.com/photo-1602602461257-6e12f9c6f0e2?auto=format&fit=crop&q=80&w=600",
+      "id": "category-1698320406",
+      "name": "Automotive Brass Parts",
+      "image": "https://images.unsplash.com/photo-1582981426604-3d9f15b5e25e?auto=format&fit=crop&q=80&w=600",
       "products": [
         {
-          "id": "product-1698326407",
-          "name": "Brass Couplings",
-          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
-          "description": "Versatile brass couplings for connecting pipes and tubes in automotive and aerospace systems.",
+          "id": "product-1698320407",
+          "name": "Brass Lock Nuts",
+          "image": "https://images.unsplash.com/photo-1585762453501-a2c6b4c528f5?auto=format&fit=crop&q=80&w=600",
+          "description": "High-strength lock nuts made from brass for secure automotive applications.",
           "applications": [
-            "Fluid transfer systems",
-            "Hydraulic systems"
+            "Chassis Assembly",
+            "Engine Mounting"
           ],
           "specifications": [
-            "1/4\" to 2\" sizes",
-            "Pressure rating: up to 300 PSI"
+            "Thread Size: M10",
+            "Material: Brass C360"
           ]
         },
         {
-          "id": "product-1698326408",
-          "name": "Brass Elbows",
-          "image": "https://images.unsplash.com/photo-1549691096-5b1c9f35a3fb?auto=format&fit=crop&q=80&w=600",
-          "description": "Durable brass elbows for changing the direction of piping in automotive and aerospace applications.",
+          "id": "product-1698320408",
+          "name": "Brass Connectors",
+          "image": "https://images.unsplash.com/photo-1589791287271-8f3d8c390c2e?auto=format&fit=crop&q=80&w=600",
+          "description": "Reliable brass connectors for automotive fluid systems.",
           "applications": [
-            "Exhaust systems",
-            "Fuel systems"
+            "Fuel Systems",
+            "Cooling Systems"
           ],
           "specifications": [
-            "90-degree and 45-degree angles",
-            "Standard and custom dimensions"
+            "Size: 1/2 inch",
+            "Pressure Rating: 150 PSI"
           ]
         }
       ],
-      "description": "Precision brass fittings engineered for high performance in automotive and aerospace applications."
+      "description": "Robust brass components tailored for automotive applications, ensuring durability and performance."
     }
   ]
 }
